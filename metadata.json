@@ -1,0 +1,6 @@
+{
+  "name": "EXAM CRACKER",
+  "description": "Comprehensive Indian government, civil services, banking, police, entrance, and scholarship exams hub with Tamil and English updates, deadlines, mock tests, and offline PDF guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
